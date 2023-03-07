@@ -1,0 +1,10 @@
+.list-item {
+  list-style-type: none;
+  margin-right: 10px;
+}
+.image {
+  opacity: 0.5;
+}
+.image-blur {
+  opacity: 1;
+}

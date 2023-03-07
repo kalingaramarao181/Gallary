@@ -1,0 +1,23 @@
+.gallery {
+  background-size: cover;
+  padding: 30px;
+}
+.gallery-heading {
+  color: #1e293b;
+  font-size: 20px;
+}
+.thumbnail-url-container {
+  display: flex;
+  flex-direction: row;
+}
+.thumbnail-img {
+  margin-right: 15px;
+  list-style-type: none;
+}
+
+.thumbnail-url-container {
+  margin-bottom: 30px;
+}
+.gallery-img {
+  height: 50vh;
+}
